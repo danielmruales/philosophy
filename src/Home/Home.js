@@ -7,6 +7,7 @@ class Home extends Component {
             <div className='mainHome'>
                 <h1>Philosophize This!</h1>
                 <img src='https://cdn-images-1.medium.com/max/1600/1*-jU1GBK5h04U927fg41haA.png' alt='home logo'/>
+                <button>View Philosopher's</button>
             </div>
         );
     }
