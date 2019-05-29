@@ -1,3 +1,4 @@
-h1 {
-    text-align: center;
+.mainNav {
+    display: flex;
+    justify-content: space-around;
 }

@@ -3,8 +3,10 @@ import './Nav.css'
 
 const Nav = () => {
     return (
-        <div>
-            <h1>Nav</h1>
+        <div className='mainNav'>
+            <h3>Home</h3>
+            <h3>About</h3>
+            <h3>Contact</h3>
         </div>
     );
 };
