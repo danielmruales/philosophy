@@ -1,4 +1,10 @@
 .mainNav {
     display: flex;
     justify-content: space-around;
+    padding: 15px
+}
+.navItems {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
 }

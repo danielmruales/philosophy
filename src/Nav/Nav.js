@@ -5,9 +5,9 @@ import './Nav.css'
 const Nav = () => {
     return (
         <div className='mainNav'>
-            <Link to='/'>Home</Link>
-            <Link to='/about'>About</Link>
-            <Link to='/contact'>Contact</Link>
+            <Link to='/' className='navItems'>Home</Link>
+            <Link to='/about' className='navItems'>About</Link>
+            <Link to='/contact' className='navItems'>Contact</Link>
         </div>
     );
 };
