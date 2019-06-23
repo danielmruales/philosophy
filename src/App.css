@@ -1,4 +1,9 @@
 body {
-  background-color: black;
-  color: #6FBDBE;
+  /* background-image: url(https://images.unsplash.com/photo-1477240489935-6c96abea2aba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80); */
+  background-image: url(https://images.unsplash.com/photo-1534289907116-888fe70c4806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60);
+  background-size: cover;
+  background-repeat: no-repeat; 
+  height: 100vh;
+  /* color: #6FBDBE; */
+  color: white;
 }
