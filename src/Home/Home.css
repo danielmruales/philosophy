@@ -12,3 +12,6 @@ img {
     border-radius: 50%;
     margin-bottom: 20px;
 }
+button {
+    cursor: pointer;
+}
